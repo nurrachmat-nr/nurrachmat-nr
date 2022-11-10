@@ -4,7 +4,7 @@ Just an ordinary Programmer. Could speaking with machine with High-Level Languag
 
 **About me**
 
-- 💼 Full Stack Web Developer at [Universitas MDP](https://www.mdp.ac.id/)
+- 💼 Lecturer and Full Stack Developer at [Universitas MDP](https://www.mdp.ac.id/)
 - 🔭 Co-Founder of [pergihaji.id](https://pergihaji.id/)
 - 💬 Ask me about anything [here](https://github.com/nurrachmat-nr/nurrachmat-nr/issues)
 
