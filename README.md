@@ -26,6 +26,8 @@ Just an ordinary Programmer. Could speaking with machine with High-Level Languag
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 | <a href="https://github.com/nurrachmat-nr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nurrachmat-nr&show_icons=true&include_all_commits=true&hide=contribs,prs&count_private=true&theme=vue&hide_border=true" alt="Nur Rachmat's github stats" /></a> | <a href="https://github.com/nurrachmat-nr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurrachmat-nr&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nurrachmat-nr&theme=vue&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
 <!--
 **nurrachmat-nr/nurrachmat-nr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
