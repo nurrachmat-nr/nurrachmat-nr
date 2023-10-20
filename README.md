@@ -5,8 +5,8 @@ Just an ordinary Programmer. Could speaking with machine with High-Level Languag
 **About me**
 
 - 💼 Lecturer and Full Stack Developer at [Universitas MDP](https://www.mdp.ac.id/)
-- 🔭 Co-Founder of [pergihaji.id](https://pergihaji.id/)
 - 🔭 Founder of [Twin Tech](https://play.google.com/store/apps/developer?id=Twin+Technology+Solution)
+- 🔭 Ex-Co-Founder of [pergihaji.id](https://pergihaji.id/)
 - 💬 Ask me about tech [here](https://github.com/nurrachmat-nr/nurrachmat-nr/issues)
 
 
