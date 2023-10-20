@@ -8,7 +8,7 @@ Just an ordinary Programmer. Could speaking with machine with High-Level Languag
 - 🔭 Founder of [Twin Tech](https://play.google.com/store/apps/developer?id=Twin+Technology+Solution)
 - 🔭 Ex-Co-Founder of [pergihaji.id](https://pergihaji.id/)
 - 💬 Ask me about tech [here](https://github.com/nurrachmat-nr/nurrachmat-nr/issues)
-
+- 🌱 I’m currently learning SQA and Multiplatform Development (Flutter and KMM) 
 
 **Languages and Tools:**  
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
