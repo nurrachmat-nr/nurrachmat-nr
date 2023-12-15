@@ -5,7 +5,7 @@ Just an ordinary Programmer. Could speaking with machine with High-Level Languag
 **About me**
 
 - 💼 Lecturer and Full Stack Developer at [Universitas MDP](https://www.mdp.ac.id/)
-- 🔭 Founder of [Twin Tech](https://play.google.com/store/apps/developer?id=Twin+Technology+Solution)
+- 🔭 Founder of [Twin Tech](https://twinstation.xyz)
 - 🔭 Ex-Co-Founder of [pergihaji.id](https://pergihaji.id/)
 - 💬 Ask me about tech [here](https://github.com/nurrachmat-nr/nurrachmat-nr/issues)
 - 🌱 I’m currently learning SQA and Multiplatform Development (Flutter and KMM) 
